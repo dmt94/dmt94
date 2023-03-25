@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - I work well under pressure <img width="80" height="80" src="https://pic.funnygifsbox.com/uploads/2020/09/funnygifsbox.com-2020-09-24-07-53-12-83.gif" />
 
-- 🍵 When I'm not coding, you can find me sipping on a cup of tea ☕, starting new projects, and contributing to the open-source community 🌎.
+- 🍵 Outside of coding, I love baking, cooking yummy food, gaming, and reading cozy mysteries. 🌶️👩‍🍳🕵️‍♀️👾
 
 - 💪 As a self-sufficient developer, I take ownership of my work and consistently strive for excellence.
 
