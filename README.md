@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dmt94&count_private=true&show_icons=true&custom_title=Daevah's🚀Stats&count_private=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmt94&custom_title=Daevah's🚀Stats&count_private=true&show_icons=true&border_radius=10&ring_color=F05837&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmt94&custom_title=Daevah's🚀Stats&count_private=true&show_icons=true&border_radius=10&ring_color=DD0A0A&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmt94&layout=compact&card_width=468&border_radius=10&bg_color=282F60&text_color=FBF6F3&title_color=FFF6F6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmt94&layout=compact&card_width=468&border_radius=10&bg_color=42468B&text_color=FBF6F3&title_color=FFF6F6)](https://github.com/anuraghazra/github-readme-stats)
   
