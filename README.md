@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - I work well under pressure <img width="80" height="80" src="https://pic.funnygifsbox.com/uploads/2020/09/funnygifsbox.com-2020-09-24-07-53-12-83.gif" />
 
-- 🍵 When I'm not coding, you can find me sipping on a cup of tea ☕, brainstorming new ideas, and contributing to the open-source community 🌎.
+- 🍵 When I'm not coding, you can find me sipping on a cup of tea ☕, starting new projects, and contributing to the open-source community 🌎.
 
 - 💪 As a self-sufficient developer, I take ownership of my work and consistently strive for excellence. I'm always looking for ways to improve my skills and push the boundaries of what's possible.
 
