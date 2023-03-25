@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🤖👩‍💻🚀 <a href="">Daevah Taylaran @dmt94</a>
+
 <h1 align="center">Thanks for visiting 🍳🔥</h1>
 <h3 align="center"></h3>
 
