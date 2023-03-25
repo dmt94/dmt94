@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <style>
-  .flex-row {
-    display: flex;
-    flex-direction: row;
-  }
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
 </style>
 
-<div class="flex-row">
+<div class='flex-row'>
   
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dmt94&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmt94&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
