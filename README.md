@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Thanks for visiting 🍳🔥<img src="https://pic.funnygifsbox.com/uploads/2020/09/funnygifsbox.com-2020-09-24-07-53-11-65.gif" alt="django" width="140" height="140"/></h1>
 <h3 align="center"></h3>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dmt94&count_private=true&border_radius=10&show_icons=true&custom_title=Daevah's🚀Stats&count_private=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmt94&custom_title=Daevah's🚀Stats&count_private=true&show_icons=trueborder_radius=10&ring_color=DD0A0A&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dmt94&count_private=true&border_radius=10&card_width=268&show_icons=true&custom_title=Daevah's🚀Stats&count_private=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmt94&custom_title=Daevah's🚀Stats&count_private=true&show_icons=trueborder_radius=10&card_width=268&ring_color=DD0A0A&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com?user=dmt94&theme=codestackr&border_radius=10&date_format=n%2Fj%5B%2FY%5D&ring=EB0F0F)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmt94&layout=compact&card_width=468&border_radius=10&bg_color=121212&text_color=FBF6F3&title_color=FFF6F6)](https://github.com/anuraghazra/github-readme-stats)
 
 
