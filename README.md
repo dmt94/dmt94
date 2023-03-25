@@ -28,6 +28,17 @@ Here are some ideas to get you started:
 
 - Works Well under pressure <img width="80" height="80" src="https://pic.funnygifsbox.com/uploads/2020/09/funnygifsbox.com-2020-09-24-07-53-12-83.gif" />
 
+2 / 2
+
+- 👋 Hi there! I'm Daevah, a 💻 programmer who's passionate about creating innovative solutions.
+
+- 🍵 When I'm not coding, you can find me sipping on a cup of tea ☕, brainstorming new ideas, and contributing to the open-source community 🌎.
+
+- 💪 As a self-sufficient developer, I take ownership of my work and consistently strive for excellence. I'm always looking for ways to improve my skills and push the boundaries of what's possible.
+
+- 🎨 My creativity is a valuable asset, as I bring fresh perspectives and ideas to every project I tackle.
+
+- 🤝 Most importantly, I value kindness and respect in all my interactions. I believe in supporting my colleagues and creating a positive work environment for everyone involved.
 
 
 
