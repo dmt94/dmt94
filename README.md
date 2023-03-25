@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello 🍳🔥<img src="https://pic.funnygifsbox.com/uploads/2020/09/funnygifsbox.com-2020-09-24-07-53-11-65.gif" alt="django" width="140" height="140"/>!</h1>
+<h1 align="center">Thanks for visiting 🍳🔥<img src="https://pic.funnygifsbox.com/uploads/2020/09/funnygifsbox.com-2020-09-24-07-53-11-65.gif" alt="django" width="140" height="140"/></h1>
 <h3 align="center"></h3>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dmt94&count_private=true&border_radius=10&show_icons=true&custom_title=Daevah's🚀Stats&count_private=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
