@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 - 🍵 When I'm not coding, you can find me sipping on a cup of tea ☕, starting new projects, and contributing to the open-source community 🌎.
 
-- 💪 As a self-sufficient developer, I take ownership of my work and consistently strive for excellence. I'm always looking for ways to improve my skills and push the boundaries of what's possible.
+- 💪 As a self-sufficient developer, I take ownership of my work and consistently strive for excellence.
 
-- 🎨 My creativity is a valuable asset, as I bring fresh perspectives and ideas to every project I tackle.
+- 🎨 My primary driving force behind programming stems from the boundless potential for creativity that it offers.
 
 - 🤝 Most importantly, I value kindness and respect in all my interactions. I believe in supporting my colleagues and creating a positive work environment for everyone involved.
 
