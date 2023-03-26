@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🤖👩‍💻🚀 <a href="">Daevah Taylaran @dmt94</a> <img width=180 src="https://pic.funnygifsbox.com/uploads/2021/03/funnygifsbox.com-2021-03-15-14-57-01-80.gif" />
+## 🤖👩‍💻🚀 <a href="">My Portfolio @dmt94</a> <img width=180 src="https://pic.funnygifsbox.com/uploads/2021/03/funnygifsbox.com-2021-03-15-14-57-01-80.gif" />
 
 <h1 align="center">Thanks for visiting 🍳🔥</h1>
 <h3 align="center"></h3>
