@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   
     I am currently expanding my knowledge on cloud computing, with a particular focus on Amazon Web Services (AWS). Through my ongoing efforts to expand my knowledge and skill set, I am eager to help organizations utilize the cloud to achieve their goals and cut costs.
 
-  - <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+ - <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
 
     I have always found 3D environments incredible and will be incorporating more of this library in future projects~
 
