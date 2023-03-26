@@ -61,6 +61,17 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmt94&custom_title=Daevah's🚀Stats&count_private=true&show_icons=trueborder_radius=10&hide_title=true&ring_color=DD0A0A&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmt94&layout=compact&card_width=168&border_radius=10&bg_color=121212&text_color=FBF6F3&title_color=FFF6F6)](https://github.com/anuraghazra/github-readme-stats)
   
+
+
+<hr>
+
+<h2 align="center">Tech Thoughts 🤔 </h2>
+
+<a href="https://medium.com/@daevtayl"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) </a>
+<a href="https://dmt94.hashnode.dev/"> ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) </a>
+<a href="https://dev.to/dmt94"> ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) </a>
+
 </div>
+
 
 
