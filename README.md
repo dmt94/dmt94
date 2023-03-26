@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">About Me</h2>
 
-- 👋 Hi there! I'm Daevah, a 💻 programmer who's passionate about creating innovative solutions.
+- 😁 Hello! I'm Daevah, a 💻 programmer who's passionate about creating innovative solutions.
 
 - I work well under pressure <img width="80" height="80" src="https://pic.funnygifsbox.com/uploads/2020/09/funnygifsbox.com-2020-09-24-07-53-12-83.gif" />
 
