@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🤖👩‍💻🚀 <a href="">My Portfolio @dmt94</a> <img width=180 src="https://pic.funnygifsbox.com/uploads/2021/03/funnygifsbox.com-2021-03-15-14-57-01-80.gif" />
+## 🤖👩‍💻🚀 <a href="https://daevahtayl.com/">My Portfolio @dmt94</a> <img width=180 src="https://pic.funnygifsbox.com/uploads/2021/03/funnygifsbox.com-2021-03-15-14-57-01-80.gif" />
 
 <h1 align="center">Thanks for visiting 🍳🔥</h1>
 <h3 align="center"></h3>
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <h2 align="center">About Me</h2>
 
 - 😁 Hello! I'm Daevah, a 💻 programmer who's passionate about creating innovative solutions.
-- Check out my portfolio: <a src="https://daevahtayl.com/">daevah</a>
 
 - I work well under pressure <img width="80" height="80" src="https://pic.funnygifsbox.com/uploads/2020/09/funnygifsbox.com-2020-09-24-07-53-12-83.gif" />
 
