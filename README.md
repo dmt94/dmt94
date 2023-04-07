@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - 🎨 My primary driving force behind programming stems from the boundless potential for creativity that it offers.
 
-- 🤝 Most importantly, I value kindness and respect in all my interactions. I believe in supporting my colleagues and creating a positive work environment for everyone involved.
+- 🤝 Most importantly, I value mutual respect in all my interactions. I believe in supporting my colleagues and creating a positive work environment for everyone involved.
 
 - I'm always looking to expand my network and connect with like-minded individuals! Please feel free to find me on LinkedIn, I'd love to connect with you >> <a href="https://www.linkedin.com/in/d-tayl/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
