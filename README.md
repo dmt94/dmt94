@@ -74,11 +74,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  
-<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dmt94&count_private=true&border_radius=10&show_icons=true&hide_title=true&count_private=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmt94&custom_title=Daevah's🚀Stats&count_private=true&show_icons=trueborder_radius=10&hide_title=true&ring_color=DD0A0A&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmt94&layout=compact&card_width=168&border_radius=10&bg_color=121212&text_color=FBF6F3&title_color=FFF6F6)](https://github.com/anuraghazra/github-readme-stats) -->
-  
+
 
 
 <hr>
