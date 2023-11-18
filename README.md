@@ -52,11 +52,7 @@ Here are some ideas to get you started:
 
 <h4>In Progress:</h4>
 
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="100"/>
-
 <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" width="100"/>
-
-<img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" width="100"/>
 
 </div>
 
