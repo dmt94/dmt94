@@ -3,7 +3,7 @@
 
 -->
 
-## 🤖👩‍💻🚀 <a href="https://daevahtayl.com/">My Portfolio @dmt94</a> <img width=180 src="https://pic.funnygifsbox.com/uploads/2021/03/funnygifsbox.com-2021-03-15-14-57-01-80.gif" />
+## 🤖👩‍💻🚀 <a href="https://daevahtayl.com/">My Portfolio @dmt94</a>
 
 <h1 align="center">Thanks for visiting 🍳🔥</h1>
 <h3 align="center"></h3>
