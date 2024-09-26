@@ -20,7 +20,7 @@
 
 - 😁 Hello, I'm Daevah!
 
-- 🍵 Outside of coding, I love baking, cooking yummy food, reading cozy mysteries. 🌶️👩‍🍳🕵️‍♀️
+- 🍵 Outside of coding, I love cooking and reading cozy mysteries. 🌶️👩‍🍳🕵️‍♀️
 
 
 
