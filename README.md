@@ -3,8 +3,6 @@
 
 -->
 
-## 🤖👩‍💻🚀 <a href="https://daevahtayl.com/">My Portfolio @dmt94</a>
-
 <h1 align="center">Thanks for visiting 🍳🔥</h1>
 <h3 align="center"></h3>
 
